@@ -7,7 +7,7 @@ A command-line task manager built with Python's `argparse` subcommands, JSON fil
 1. Make sure Python 3.10+ is installed.
 2. Clone this repository and navigate into the task folder:
    ```bash
-   git clone [https://github.com/govindnikhil0097/upstartintern-python.git](https://github.com/govindnikhil0097/upstartintern-python.git)
+   git clone https://github.com/govindnikhil0097/upstartintern-python.git
    cd upstartintern-python/task-04-cli-task-manager
    ```
 3. Install `pytest` (only required to run the test suite; the CLI itself uses only the Python standard library):
